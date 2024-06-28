@@ -13,6 +13,8 @@ yarn
 Start the application in development mode by running:
 
 ```sh
+cd liad-admin
+
 yarn dev
 ```
 
